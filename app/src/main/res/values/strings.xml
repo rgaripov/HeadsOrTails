@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeadsOrTails</string>
+    <string name="btn_name">Head or tail?</string>
+</resources>
